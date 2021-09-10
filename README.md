@@ -1,1 +1,1 @@
-# Segmenta-o-de-cliente
+# Segmentação-de-cliente
