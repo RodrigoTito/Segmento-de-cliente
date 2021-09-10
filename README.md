@@ -1,0 +1,1 @@
+# Segmenta-o-de-cliente
